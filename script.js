@@ -46,7 +46,6 @@ jQuery(document).ready(function($){
 
 // fish moving
 
-//--  ast animation
 $(document).ready(function() {
     animateDiv($('#fish1'));
 		animateDiv($('#fish2'));
@@ -55,11 +54,11 @@ $(document).ready(function() {
 
 });
 // this creates the container for the images to float in
-function makeNewPosition($panel4) {
+function makeNewPosition($contain) {
 
     // Get viewport dimensions (remove the dimension of the div)
-    var h = $panel4.height() - 50;
-    var w = $panel4.width() - 50;
+    var h = $contain.height() - 50;
+    var w = $contain.width() - 50;
 
     var nh = Math.floor(Math.random() * h);
     var nw = Math.floor(Math.random() * w);
