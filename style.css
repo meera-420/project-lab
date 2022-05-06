@@ -18,12 +18,12 @@ text-align: center;
 }
 
 /* Essential CSS - Makes the effect work */
-
-body {
+/* i removed this body and added it to the html style */
+/* body {
 color: #80ffff;
 background-color: #007ea7;
 background-image: linear-gradient(315deg, #007ea7 0%, #80ced7 74%);
-}
+} */
 
 .bubbles {
 display: inline-block;
