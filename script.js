@@ -71,6 +71,12 @@ animateDiv($('#fish21'));
 animateDiv($('#fish22'));
 animateDiv($('#fish23'));
 animateDiv($('#fish24'));
+animateDiv($('#fish25'));
+animateDiv($('#fish26'));
+animateDiv($('#fish27'));
+animateDiv($('#fish28'));
+animateDiv($('#fish29'));
+animateDiv($('#fish30'));
 });
 // this creates the container for the images to float in
 function makeNewPosition($contain) {
