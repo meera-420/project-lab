@@ -51,7 +51,26 @@ $(document).ready(function() {
 		animateDiv($('#fish2'));
 		animateDiv($('#fish3'));
 		animateDiv($('#fish4'));
-
+    animateDiv($('#fish5'));
+    animateDiv($('#fish6'));
+    animateDiv($('#fish7'));
+    animateDiv($('#fish8'));
+    animateDiv($('#fish9'));
+    animateDiv($('#fish10'));
+    animateDiv($('#fish11'));
+    animateDiv($('#fish12'));
+animateDiv($('#fish13'));
+animateDiv($('#fish14'));
+animateDiv($('#fish15'));
+animateDiv($('#fish16'));
+animateDiv($('#fish17'));
+animateDiv($('#fish18'));
+animateDiv($('#fish19'));
+animateDiv($('#fish20'));
+animateDiv($('#fish21'));
+animateDiv($('#fish22'));
+animateDiv($('#fish23'));
+animateDiv($('#fish24'));
 });
 // this creates the container for the images to float in
 function makeNewPosition($contain) {
